@@ -2,10 +2,10 @@
 
 ## Filmpire
 
-> This website is designed entirely in react using material UI. It is an feetness application that lets users search for different exercises based on body parts. It also show similar exercises and display their youtude videos.
+>This is a Travel companion application, with geolocation using google maps. It gives user the ability to search places, fetching restaurant, hotels and attractions. It is built using React, Materia UI, google maps API.
 
 ## Below is the screenshot of my work
-![Feetness App](https://github.com/ndikumanaisaie/feetness_app/blob/setup_ui/src/assets/images/shot.png)
+![Travel companion](https://github.com/ndikumanaisaie/Travel-companion/blob/setup_ui/src/assets/images/shot.png)
 
 ## Built with
 - HTML
@@ -14,6 +14,7 @@
 - React
 - Material UI
 - RapidApi API
+- Google Maps API
 - gitflow
 
 
@@ -26,18 +27,18 @@
 - LinkedIn: [ndikumana-isaie-21166273](https://www.linkedin.com/in/ndikumana-isaie-21166273/)
 
 ## Link to URL on browser
-- [Fitness App](https://ndikumanaisaie.github.io/feetness_app/dist)
+- [Travel companion](https://ndikumanaisaie.github.io/Travel-companion/dist)
 
 ## Link to URL on gitHub
-- [Filmpire](https://github.com/ndikumanaisaie/feetness_app.git)
+- [Travel companion](https://github.com/ndikumanaisaie/Travel-companion.git)
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
 ## Setup
-clone: run `git clone https://github.com/ndikumanaisaie/feetness_app.git`
-Move to cloned folder: run git cd TO-DO-LIST.
+clone: run `git clone https://github.com/ndikumanaisaie/Travel-companion.git`
+Move to cloned folder: run git cd Travel-companion.
 
 ## Install
 
@@ -60,8 +61,8 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Microverse staff
-- Our families
+- Js mastery 
+- My wife
 - etc
 
 ## 📝 License

@@ -65,12 +65,12 @@
       "jest-localstorage-mock"
     ]
   },
-  "name": "fitness_app",
+  "name": "travel-companion",
   "description": "\"Travel companion\" This website is designed entirely in react. It lets users search for their prefered movies from an api.",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ndikumanaisaie/react_course.git"
+    "url": "git+https://github.com/ndikumanaisaie/Travel-companion.git"
   },
   "eslintConfig": {
     "env": {
@@ -82,7 +82,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ndikumanaisaie/react_course/issues"
+    "url": "https://github.com/ndikumanaisaie/Travel-companion/issues"
   },
-  "homepage": "https://github.com/ndikumanaisaie/react_course#readme"
+  "homepage": "https://github.com/ndikumanaisaie/Travel-companion#readme"
 }
